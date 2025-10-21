@@ -1,7 +1,11 @@
 .env 
 .__pycache__
+<<<<<<< HEAD
 .venv
 raw_data/sessions.csv
 raw_data/bets.csv
 raw_data/deposits.csv
 raw_data/withdrawals.cs
+=======
+.venv
+>>>>>>> d2b9430 (feat: Initialize database schema and models for player churn prediction system)

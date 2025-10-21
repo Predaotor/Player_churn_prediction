@@ -7,8 +7,12 @@ psycopg2
 psycopg2-binary
 fastapi
 alembic
+<<<<<<< HEAD
 pydantic
 faker
 lightgbm
 matplotlib 
 seaborn
+=======
+pydantic
+>>>>>>> d2b9430 (feat: Initialize database schema and models for player churn prediction system)
