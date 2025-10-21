@@ -1,0 +1,10 @@
+sqlalchemy
+pandas 
+numpy 
+tensorflow 
+python_dotenv
+psycopg2 
+psycopg2-binary
+fastapi
+alembic
+pydantic
