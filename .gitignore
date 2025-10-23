@@ -5,7 +5,8 @@
 raw_data/sessions.csv
 raw_data/bets.csv
 raw_data/deposits.csv
-raw_data/withdrawals.cs
+raw_data/withdrawals.csv
+raw_data/bonuses.csv
 =======
 .venv
 >>>>>>> d2b9430 (feat: Initialize database schema and models for player churn prediction system)
