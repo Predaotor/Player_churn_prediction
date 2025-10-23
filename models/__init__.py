@@ -10,7 +10,15 @@ class Player(Base):
     __tablename__ = "players"
 
     player_id = Column(String, primary_key=True, index=True)
+<<<<<<< HEAD
+<<<<<<< HEAD
     registration_date = Column(DateTime, default=datetime.now(timezone.utc))
+=======
+    registration_date = Column(DateTime, default=datetime.utcnow)
+>>>>>>> d2b9430 (feat: Initialize database schema and models for player churn prediction system)
+=======
+    registration_date = Column(DateTime, default=datetime.now(timezone.utc))
+>>>>>>> 7926cd2 (feat(data): generate and aggregate full synthetic casino dataset)
     country = Column(String(2))  # ISO country code
     platform = Column(String(20))  # mobile/desktop
     os_family = Column(String(20))  # iOS/Android/Windows
