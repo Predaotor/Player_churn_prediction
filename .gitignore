@@ -1,0 +1,7 @@
+.env 
+.__pycache__
+.venv
+raw_data/sessions.csv
+raw_data/bets.csv
+raw_data/deposits.csv
+raw_data/withdrawals.cs
