@@ -7,19 +7,13 @@ psycopg2
 psycopg2-binary
 fastapi
 alembic
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 7926cd2 (feat(data): generate and aggregate full synthetic casino dataset)
 pydantic
 faker
 lightgbm
 matplotlib 
-<<<<<<< HEAD
+
 seaborn
-=======
+
 pydantic
->>>>>>> d2b9430 (feat: Initialize database schema and models for player churn prediction system)
-=======
 seaborn
->>>>>>> 7926cd2 (feat(data): generate and aggregate full synthetic casino dataset)
+scikit-learn
